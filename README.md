@@ -11,3 +11,6 @@ https://burst.shopify.com/ -> Imagens em Alta Resolução
 
 https://unsplash.com/ -> Imagens de ALta Resolução
 - Unsplash é um banco de imagens grátis em Alta Resolução, para usar em seus projetos.
+
+https://dribbble.com/ -> Comunidade de Projetos de Design 
+- Aqui em especial tem muita coisa boa, varios Designer's postam projetos, é legal pra você pegar inspirações para os seus projetos. 
