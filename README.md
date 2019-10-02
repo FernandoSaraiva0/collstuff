@@ -1,6 +1,6 @@
-# Sites Legais
+# Cool Sites
 
-https://www.svgbackgrounds.com/-> SVG's editáveis! 
+https://www.svgbackgrounds.com/-> SVG Editable Background 
 - Um bom front-end precisa de interfaces otimizadas ao máximo para poupar tempo de carregamento gráfico de um site, sem que este perca a beleza, está aí uma ferramente incrível para você montar seu Backgrund leve em SVG. 
 
 https://br.freepik.com/ -> Vetores Gratis
