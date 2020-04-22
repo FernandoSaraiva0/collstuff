@@ -1,7 +1,7 @@
-# Cool Sites
+# Cool Stuff: Sites
 
-https://www.svgbackgrounds.com/-> SVG Editable Background 
-- Um bom front-end precisa de interfaces otimizadas ao máximo para poupar tempo de carregamento gráfico de um site, sem que este perca a beleza, está aí uma ferramente incrível para você montar seu Backgrund leve em SVG. 
+° [SVG Editable Background ] (https://www.svgbackgrounds.com/) -> 
+- A good dev needs of maximun opmized interfaces, for reduce the loading time, not withput losing the beatiful, this is a tool incredible for you make easy backgrounds. 
 
 https://br.freepik.com/ -> Vetores Gratis
 - Freepik é um banco de vetores gratis, contém milhares de exemplos de Desgin para você basear seus projetos!
