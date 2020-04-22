@@ -1,7 +1,7 @@
 # Cool Stuff: Sites
 
-° [SVG Editable Background ] (https://www.svgbackgrounds.com/) -> 
-- A good dev needs of maximun opmized interfaces, for reduce the loading time, not withput losing the beatiful, this is a tool incredible for you make easy backgrounds. 
+-[SVG Editable Background](https://www.svgbackgrounds.com/) -> 
+ >A good dev needs of maximun opmized interfaces, for reduce the loading time, not withput losing the beatiful, this is a tool incredible for you make easy backgrounds. 
 
 https://br.freepik.com/ -> Vetores Gratis
 - Freepik é um banco de vetores gratis, contém milhares de exemplos de Desgin para você basear seus projetos!
