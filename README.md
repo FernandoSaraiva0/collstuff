@@ -1,16 +1,17 @@
-# Cool Stuff: Sites
+# Cool Stuff
+## Repositore of Cool Stuff for You
 
-- [SVG Editable Background](https://www.svgbackgrounds.com/)  
- >A good dev needs of maximun opmized interfaces, for reduce the loading time, not withput losing the beatiful, this is a tool incredible for you make easy backgrounds. 
+- [SVG Background](https://www.svgbackgrounds.com/)  
+ >This is a tool incredible for you make easy backgrounds. 
 
-- [Vetores Gratis](https://br.freepik.com/) -> 
- >Freepik é um banco de vetores gratis, contém milhares de exemplos de Desgin para você basear seus projetos!
+- [FREEPIK](https://br.freepik.com/) -> 
+ >Bank free of vector design
 
-- [Imagens em Alta Resolução](https://burst.shopify.com/) -> 
->Shopify é um banco de imagens gratis em Alta Resolução, para usar a vontado nos seu projetos. 
+- [SHOPIFY](https://burst.shopify.com/) -> 
+ >Free image bank
 
-https://unsplash.com/ -> Imagens de ALta Resolução
-- Unsplash é um banco de imagens grátis em Alta Resolução, para usar em seus projetos.
+- [UNSPLASH](https://unsplash.com/) ->
+ >Free image bank
 
-https://dribbble.com/ -> Comunidade de Projetos de Design 
-- Aqui em especial tem muita coisa boa, varios Designer's postam projetos, é legal pra você pegar inspirações para os seus projetos. 
+- [DRIBBBLE](https://dribbble.com/) -> 
+ >Comunnity of Designers and Projects for inspiration
