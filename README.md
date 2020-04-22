@@ -1,7 +1,7 @@
 # Cool Stuff
-## Repositore of Cool Stuff for You
+###>Repositore of Cool Stuff for You
 
-- [SVG Background](https://www.svgbackgrounds.com/)  
+- [*SVG Background*](https://www.svgbackgrounds.com/)  
  >This is a tool incredible for you make easy backgrounds. 
 
 - [FREEPIK](https://br.freepik.com/) -> 
