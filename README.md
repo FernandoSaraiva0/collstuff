@@ -1,5 +1,5 @@
 # Cool Stuff
-####Repositore of Cool Stuff for You
+##Repositore of Cool Stuff for You
 
 - [**SVG Background**](https://www.svgbackgrounds.com/)  
  >This is a tool incredible for you make easy backgrounds. 
@@ -15,3 +15,6 @@
 
 - [DRIBBBLE](https://dribbble.com/) -> 
  >Comunnity of Designers and Projects for inspiration
+ 
+ - [NOTION](https://www.notion.so/) ->
+ >It's an app for desktop, mobile and web, for notes, personal organization and  team.
