@@ -19,5 +19,5 @@
  - [**NOTION**](https://www.notion.so/) 
  >It's an app for desktop, mobile and web, for notes, personal organization and  team.
  
- -[**FONT SQUIRREL**] (https://www.fontsquirrel.com/)
+ - [**FONT SQUIRREL**](https://www.fontsquirrel.com/)
  > Site of free fonts for a comercial use
