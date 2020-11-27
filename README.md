@@ -20,4 +20,4 @@
  >It's an app for desktop, mobile and web, for notes, personal organization and  team.
  
  - [**FONT SQUIRREL**](https://www.fontsquirrel.com/)
- > Site of free fonts for a comercial use
+ > Site of free fonts for a commercial use
