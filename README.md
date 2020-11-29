@@ -1,5 +1,5 @@
 # Cool Stuff
-### Repositore of Cool Stuff for You
+### Repositore of Cool Stuff for designers and tech lovers
 
 - [**SVG Background**](https://www.svgbackgrounds.com/)  
  >This is a tool incredible for you make easy backgrounds. 
