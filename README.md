@@ -1,5 +1,6 @@
 # Cool Stuff
-### Repositore of Cool Stuff for designers and tech lovers
+### Adding Cool Stuff for designers and tech lovers
+
 
 - [**CONVERTING COLORS**](https://convertingcolors.com/)
 >Tool of detail and combination to colors.
