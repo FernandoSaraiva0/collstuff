@@ -34,3 +34,6 @@
 
 - [**PALLETE GENERATOR**](https://palettegenerator.com/)
 > to create natural color pallete based on images.
+
+- [** GUIDE OF GITHUB EMOJI **](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
+> To use in your markdown documents. :blush:
