@@ -3,8 +3,8 @@
 
 ### Adding Cool Stuff for designers and tech lovers
 
-<img src="https://img.shields.io/github/stars/FernandoSaraiva0/collstuff.git?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/FernandoSaraiva0/collstuff.git?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/FernandoSaraiva0/collstuff?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/FernandoSaraiva0/collstuff?style=for-the-badge"/>
 
 
 
