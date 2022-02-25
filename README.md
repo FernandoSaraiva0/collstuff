@@ -1,5 +1,7 @@
-# Cool Stuff
-### Adding Cool Stuff for designers and tech lovers
+<h1 align="center">Cool Stuff</h1>
+<img src="https://img.shields.io/github/stars/FernandoSaraiva0/collstuff.git?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/FernandoSaraiva0/collstuff.git?style=for-the-badge"/>
+## Adding Cool Stuff for designers and tech lovers
 
 
 - [**MAP CHART**](https://mapchart.net/)
